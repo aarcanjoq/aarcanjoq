@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aarcanjoq
+- 👀 I’m interested in Java, GNU/Linux and React.
+- 🌱 I’m currently learning about Reactive Programming.
